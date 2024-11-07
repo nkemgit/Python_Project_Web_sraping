@@ -159,3 +159,7 @@ Rank	Company	Industry	Revenue(US$ millions)	Profits(US$ millions)
 # export the data frame to csv file for analysis
 
 df.to_csv(r"C:\Users\HP\Desktop\My working directory\nkem companies.csv", index = Fals
+
+
+## The final result is availavle for download  [https://tinyurl.com/2jb5tujr]
+## The second stage of the project is to perform data cleaning/manipulation in python for data analysis
